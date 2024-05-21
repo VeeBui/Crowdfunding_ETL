@@ -22,7 +22,8 @@ Using Python, Pandas, and either Python dictionary methods or regular expression
 * Violet Bui
 * Tasha Do
 * Mahsa Hesampour
-* Ned
+* Ned Zatari
+* Achana Kale
 
 ## Acknowledgments
 N/A
