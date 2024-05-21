@@ -19,10 +19,10 @@ Using Python, Pandas, and either Python dictionary methods or regular expression
 * Crowdfunding Database: crowdfunding schema and Postgres database.
 
 ## Authors
-Tasha Do
-Mahsa Hesampour
-Violet Bui
-Ned
+* Violet Bui
+* Tasha Do
+* Mahsa Hesampour
+* Ned
 
 ## Acknowledgments
 N/A
